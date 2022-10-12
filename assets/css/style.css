@@ -57,12 +57,12 @@ h1 {
   }
 
 @media (max-width: 645px) {
-  /* .btn-secondary,
+  .btn-secondary,
   .btn-secondary:hover,
   .btn-secondary:focus {
     display: none;
     margin-bottom: 0px;
-  } */
+  } 
   #littlep{
     font-size: 20px;
   }
