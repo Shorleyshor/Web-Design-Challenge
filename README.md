@@ -1,4 +1,4 @@
-project website Address: http://127.0.0.1:5500/visualization/index.html
+project website Address: http://127.0.0.1:5500/index.html
 # Web-Design-Challenge
 
 The objective of the web-design homework is to create a website by using the visualizations that were created in the Python-API-Chalenge.
